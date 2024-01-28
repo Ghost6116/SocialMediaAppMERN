@@ -1,5 +1,4 @@
 # Memories
-Basic real-time chat application with;
 
 MongoDB
 ExpressJS
