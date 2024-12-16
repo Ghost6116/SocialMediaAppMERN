@@ -28,26 +28,3 @@ Clone the repository:
 bash
 Copy code
 git clone https://github.com/Ghost6116/SocialMediaAppMERN.git
-Install dependencies:
-Navigate into the project directory and install the required packages:
-bash
-Copy code
-cd SocialMediaAppMERN
-npm install
-Environment Variables:
-Set up your .env file in the root directory of the project with the following keys:
-makefile
-Copy code
-MONGO_URI=<Your_MongoDB_URI>
-JWT_SECRET=<Your_JWT_Secret>
-Run the application:
-To start the server, run:
-sql
-Copy code
-npm start
-To run the frontend, navigate to the client directory and start React:
-bash
-Copy code
-cd client
-npm start
-The application should now be running on localhost:3000.
